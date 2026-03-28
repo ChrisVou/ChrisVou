@@ -39,4 +39,4 @@ This profile focuses on:
 All content is based on lab environments, educational exercises, and controlled analysis workflows. No client data, unsafe binaries, or sensitive material is distributed.
 
 ## Contact
-- LinkedIn: [[linkedin-url]](https://www.linkedin.com/in/chrisvouvoudis/)
+- LinkedIn: https://www.linkedin.com/in/chrisvouvoudis/
